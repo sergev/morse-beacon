@@ -18,11 +18,11 @@
  * CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
  */
 #include <SPI.h>
-#include <LoRa.h>
 #include <Wire.h>
 #include <Adafruit_GFX.h>
-#include "Fixed8x16.h"
 #include "Adafruit_SSD1306.h"
+#include "Fixed8x16.h"
+#include "LoRa.h"
 
 //
 // Board pins.
